@@ -6,7 +6,6 @@ Data visualization and storytelling using Superstore dataset in Power BI.
 This project is part of a hands-on task to demonstrate visual storytelling using Power BI and the Superstore dataset.
 
 ## 📊 What’s Inside
-- 📌 Report PDF: [Download Report](._Prachee.png)
 - 📈 6-Charts Dashboard in Power BI
 - 🧩 Key metrics like Sales, Profit, Region, Category, Top Customers
 
