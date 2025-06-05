@@ -9,7 +9,6 @@ This project is part of a hands-on task to demonstrate visual storytelling using
 - 📌 Report PDF: [Download Report](./Task_2_Data_Visualization_Report_by_Prachee.pdf)
 - 📈 6-Charts Dashboard in Power BI
 - 🧩 Key metrics like Sales, Profit, Region, Category, Top Customers
-- 📝 Insights + Interview Q&A
 
 ## 📁 Tools Used
 - Power BI
